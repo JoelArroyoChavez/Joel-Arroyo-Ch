@@ -1,20 +1,22 @@
 <!-- =========================================================
-GitHub Profile README — Instagram Style
+Profile README (Instagram + CV Style)
 Repo: Joel-Arroyo-Ch
 ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Joel%20Arroyo&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%20%7C%20Analytics%20Creator&descAlignY=58&animation=fadeIn" alt="Joel Arroyo Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Joel%20Arroyo&fontAlign=50&fontAlignY=38&desc=Senior%20Data%20Scientist%20%C2%B7%20SQL%20%C2%B7%20Python%20%C2%B7%20R&descAlignY=58&animation=fadeIn" alt="Joel Arroyo Header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From%20Data%20to%20Impact-ff4ecd?style=for-the-badge" alt="From Data to Impact badge"/>
-  <img src="https://img.shields.io/badge/Storytelling%20with%20Data-7c3aed?style=for-the-badge" alt="Storytelling badge"/>
-  <img src="https://img.shields.io/badge/Always%20Building-00c2ff?style=for-the-badge" alt="Always building badge"/>
+  <img src="https://img.shields.io/badge/Retail%20Analytics-ff4ecd?style=for-the-badge" alt="Retail Analytics badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Systems-7c3aed?style=for-the-badge" alt="Decision Systems badge"/>
+  <img src="https://img.shields.io/badge/Business%20Impact-00c2ff?style=for-the-badge" alt="Business Impact badge"/>
 </p>
 
-<h1 align="center">📸 Mi Portafolio estilo Instagram</h1>
-<h3 align="center">✨ Visual · Profesional · Creativo · Orientado a resultados</h3>
+<h1 align="center">📸 Data Science Portfolio · estilo Instagram</h1>
+<p align="center">
+  Senior Data Scientist · SQL · Python · R · Retail Analytics · Decision Systems
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-arroyo-chavez-208303193"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -32,43 +34,65 @@ Repo: Joel-Arroyo-Ch
   <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=80" alt="Business decision meeting" width="30%" />
 </p>
 
-> Bienvenido a mi espacio: aquí combino analítica, negocio y diseño para contar historias con datos que generan decisiones reales.
+> Uso este espacio como un blog técnico/visual para documentar proyectos, experimentos y aprendizajes aplicados a negocio.
 
 ---
 
-## 🔥 Sobre mí
+## 👋 Welcome
 
-💡 Soy **Senior Data Scientist** con enfoque en:
-- Segmentación de clientes
-- Churn / retención
-- Automatización de reportes
-- Sistemas de decisión para negocio
-
-🎯 Mi objetivo: transformar datos complejos en **acciones simples, medibles y rentables**.
+If you're into practical analytics, business-impact modeling, and production-ready workflows, you're in the right place.
 
 ---
 
-## 📱 Highlights (como historias destacadas)
+## 🧭 What I Work On
+
+- Customer segmentation and behavioral analytics<br/>
+- Churn/risk modeling and retention strategies<br/>
+- SQL pipelines and data quality controls<br/>
+- Python/R automation for reporting and decision support<br/>
+- Real business cases in retail and operations
+
+---
+
+## 📱 Highlights (historias destacadas)
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/96/combo-chart--v1.png" alt="Segmentation"/><br/>
       <b>Segmentación</b><br/>
-      Clusters accionables para marketing y operaciones.
+      De transacciones a clusters accionables.
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/96/alarm.png" alt="Churn"/><br/>
-      <b>Churn & Riesgo</b><br/>
-      Alertas tempranas y campañas de retención.
+      <b>Churn / Riesgo</b><br/>
+      Señales tempranas para retención.
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/96/automation.png" alt="Automation"/><br/>
       <b>Automatización</b><br/>
-      KPI mensuales confiables y procesos escalables.
+      KPI mensuales confiables y escalables.
     </td>
   </tr>
 </table>
+
+---
+
+## 📰 Latest Entries
+
+> *(Reemplaza estos links con tus posts reales)*
+
+- **[How I structure a segmentation pipeline for retail members](#)**<br/>
+  *From raw transactions to actionable clusters.*
+
+- **[Building monthly KPI layers in SQL + R](#)**<br/>
+  *A practical approach to stable executive reporting.*
+
+- **[From analysis to adoption: making models usable for business teams](#)**<br/>
+  *What matters beyond model accuracy.*
+
+- **[Feature engineering patterns I use in churn projects](#)**<br/>
+  *Signals, windows, and operational constraints.*
 
 ---
 
@@ -78,56 +102,79 @@ Repo: Joel-Arroyo-Ch
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,vscode,git,github" alt="Skills"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Analytics-Retail%20%26%20Operations-6d28d9?style=flat-square" alt="Analytics badge"/>
-  <img src="https://img.shields.io/badge/Modeling-Churn%20%7C%20Segmentation-ec4899?style=flat-square" alt="Modeling badge"/>
-  <img src="https://img.shields.io/badge/Reporting-SQL%20%2B%20R%20Automation-0ea5e9?style=flat-square" alt="Reporting badge"/>
-</p>
+---
+
+## 🧪 Field Notes
+
+### Current Focus
+- Improving reusable feature stores for monthly/trimestral analytics
+- Strengthening model monitoring and drift checks
+- Designing cleaner project templates for faster delivery
+
+### Learning Now
+- Advanced survival/churn frameworks
+- Scalable experimentation design
+- Better storytelling for technical results
 
 ---
 
-## 🗂️ Proyectos destacados
+## 📁 Projects as Stories
 
 ### 1) 🎯 Segmentation Engine
-Pipeline completo para clasificar comportamiento de clientes y priorizar intervenciones.
+A full pipeline for classifying customer behavior patterns and prioritizing interventions.
 
-**Stack:** SQL · R · Python<br/>
-**Impacto:** segmentos accionables para equipos comerciales.
+**Stack:** SQL, R, Python<br/>
+**Output:** actionable segments for commercial and operations teams
 
 ### 2) 🚨 Churn / Risk Analytics
-Framework de riesgo con ventanas de compra histórica e inactividad.
+Risk scoring framework using historical purchase behavior and inactivity windows.
 
-**Stack:** SQL · Python<br/>
-**Impacto:** detección temprana y retención más efectiva.
+**Stack:** SQL, Python<br/>
+**Output:** early-warning flags and targeted retention campaigns
 
 ### 3) ⚙️ Reporting Automation
-Generación automática de archivos mensuales y resúmenes KPI con controles de calidad.
+Automated generation of monthly files and KPI summaries with quality checks.
 
-**Stack:** R · SQL · VBA<br/>
-**Impacto:** ciclos de reporte más rápidos y confiables.
+**Stack:** R, SQL, VBA<br/>
+**Output:** faster and more reliable reporting cycles
 
 ---
 
-## 📊 Estadísticas GitHub
+## 🗂️ Archive (By Theme)
+
+- **Segmentation**
+- **Churn & Retention**
+- **Data Engineering**
+- **Experimentation**
+- **Visualization & Reporting**
+
+---
+
+## 📌 Now
+
+I’m currently focused on building robust analytics systems that combine:
+1. clean data foundations,<br/>
+2. strong statistical logic, and<br/>
+3. direct business usability.
+
+---
+
+## 📊 GitHub Snapshot
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joel-Arroyo-Ch&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Arroyo-Ch&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Joel-Arroyo-Ch&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Arroyo-Ch&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Let's Connect
 
-Si quieres colaborar en proyectos de ciencia de datos, BI o analítica aplicada a negocio:
+If you want to collaborate on data science, analytics engineering, or business intelligence projects, feel free to reach out.
 
-- LinkedIn: <a href="https://www.linkedin.com/in/joel-arroyo-chavez-208303193">joel-arroyo-chavez-208303193</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/joel-arroyo-chavez-208303193">joel-arroyo-chavez-208303193</a><br/>
 - Email: <a href="mailto:joel_arroyo_chavez@hotmail.com">joel_arroyo_chavez@hotmail.com</a>
 
 ---
 
-<p align="center"><i>"Data is beautiful when it changes decisions."</i></p>
+<p align="center"><i>"Turning data into decisions, and decisions into measurable impact."</i></p>
