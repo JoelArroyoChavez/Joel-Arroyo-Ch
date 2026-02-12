@@ -1,105 +1,131 @@
-<!-- =========================
-GitHub Profile README
-Username/Repo: Joel-Arroyo-Ch
-========================= -->
-
-<h1 align="center">Hi, I'm Joel Arroyo 👋</h1>
-<h3 align="center">Senior Data Scientist | SQL • Python • R • Analytics Engineering</h3>
+<!-- =========================================================
+Profile README (Blog Style)
+Repo: Joel-Arroyo-Ch
+========================================================= -->
 
 <p align="center">
-  <!-- Replace with your image path -->
-  <img src="./assets/joel-profile-banner.png" alt="Joel Arroyo banner" width="100%" />
+  <img src="./assets/cover.jpg" alt="Cover image - Data Science Blog" width="100%" />
+</p>
+
+<h1 align="center">Joel Arroyo — Data Science Notes</h1>
+<p align="center">
+  Senior Data Scientist · SQL · Python · R · Retail Analytics · Decision Systems
 </p>
 
 <p align="center">
-  I build data products for executive decision-making, combining statistical modeling,
-  scalable data pipelines, and business-focused analytics.
+  <a href="https://www.linkedin.com/in/joel-arroyo-chavez-208303193">LinkedIn</a> •
+  <a href="mailto:joel_arroyo_chavez@hotmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## Welcome
 
-- 🔭 Current focus: **Data Science, Predictive Modeling, Segmentation, and Analytics Automation**
-- 🧠 Background: **Economics + Mathematical Economics**
-- 💼 Experience across: **Retail, Transportation, and Consulting**
-- 🛠️ Core stack: **SQL, Python, R, VBA, BI Dashboards**
-- 🌎 Based in Mexico, open to global collaboration
+I use this space as a technical blog to document projects, experiments, and lessons learned in data science and analytics engineering.
+
+If you're into practical analytics, business-impact modeling, and production-ready workflows, you're in the right place.
 
 ---
 
-## Tech Stack
+## 🧭 What I Write About
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,vscode" />
-</p>
-
-**Data & Analytics**
-- SQL (data modeling, data quality, decision support)
-- Python (analysis, automation, scraping, app support)
-- R (Big Data analysis, dashboards, statistical workflows)
-- VBA (macros, forms, process automation)
+- Customer segmentation and behavioral analytics  
+- Churn/risk modeling and retention strategies  
+- SQL pipelines and data quality controls  
+- Python/R automation for reporting and decision support  
+- Real business cases in retail and operations
 
 ---
 
-## Professional Experience
+## 📰 Latest Entries
 
-### Senior Data Scientist — **Price Shoes** (2025)
-- Built and managed SQL-based data environments for executive-level decisions
-- Developed and optimized internal analytical processes
-- Worked on Python/R solutions for reporting and market analysis
-- Applied statistical methods (correlations, principal components, clustering)
+> *(Replace links with your real posts/repositories)*
 
-### Senior Data Analyst — **TUMSA** (2024–2025)
-- Designed and managed data workflows for financial, HR, and operational use cases
-- Delivered VBA-based automation solutions
-- Implemented R/Python analytics for dashboards and market behavior analysis
+- **[How I structure a segmentation pipeline for retail members](#)**  
+  *From raw transactions to actionable clusters.*
 
-### Junior Data Analyst — **Acompania** (2022–2023)
-- Supported multi-client analytics projects
-- Built data pipelines, dashboards, and statistical analysis workflows
-- Contributed to business insights across financial and operational domains
+- **[Building monthly KPI layers in SQL + R](#)**  
+  *A practical approach to stable executive reporting.*
+
+- **[From analysis to adoption: making models usable for business teams](#)**  
+  *What matters beyond model accuracy.*
+
+- **[Feature engineering patterns I use in churn projects](#)**  
+  *Signals, windows, and operational constraints.*
 
 ---
 
-## Education
+## 🧪 Field Notes
 
-- 🎓 **M.Sc. in Mathematical Economics** — UASLP (2020–2022)
-- 🎓 **B.A. in Economics** — UMSNH (2015–2020)
+### Current Focus
+- Improving reusable feature stores for monthly/trimestral analytics
+- Strengthening model monitoring and drift checks
+- Designing cleaner project templates for faster delivery
 
----
-
-## Featured Projects (Add Your Repos)
-
-- 📌 **Customer Segmentation Engine**  
-  `Short description + impact + tools used`
-
-- 📌 **Churn / Survival Analytics Pipeline**  
-  `Short description + impact + tools used`
-
-- 📌 **Retail KPI Monitoring Suite**  
-  `Short description + impact + tools used`
-
-> Tip: Add 3–6 strong repos with clear README, business impact, and screenshots.
+### Learning Now
+- Advanced survival/churn frameworks
+- Scalable experimentation design
+- Better storytelling for technical results
 
 ---
 
-## GitHub Stats
+## 📁 Projects as Stories
+
+### 1) Segmentation Engine
+A full pipeline for classifying customer behavior patterns and prioritizing interventions.
+
+**Stack:** SQL, R, Python  
+**Output:** actionable segments for commercial and operations teams
+
+### 2) Churn / Risk Analytics
+Risk scoring framework using historical purchase behavior and inactivity windows.
+
+**Stack:** SQL, Python  
+**Output:** early-warning flags and targeted retention campaigns
+
+### 3) Reporting Automation
+Automated generation of monthly files and KPI summaries with quality checks.
+
+**Stack:** R, SQL, VBA  
+**Output:** faster and more reliable reporting cycles
+
+---
+
+## 🗂️ Archive (By Theme)
+
+- **Segmentation**
+- **Churn & Retention**
+- **Data Engineering**
+- **Experimentation**
+- **Visualization & Reporting**
+
+---
+
+## 📌 Now
+
+I’m currently focused on building robust analytics systems that combine:
+1. clean data foundations,  
+2. strong statistical logic, and  
+3. direct business usability.
+
+---
+
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Arroyo-Ch&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Arroyo-Ch&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Arroyo-Ch&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Arroyo-Ch&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## Contact
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: `https://www.linkedin.com/in/joel-arroyo-chavez-208303193`
-- 📫 Email: `joel_arroyo_chavez@hotmail.com`
+If you want to collaborate on data science, analytics engineering, or business intelligence projects, feel free to reach out.
+
+- LinkedIn: https://www.linkedin.com/in/joel-arroyo-chavez-208303193  
+- Email: joel_arroyo_chavez@hotmail.com
 
 ---
 
-## Profile Motto
-
-> “Turning data into strategic decisions with measurable business impact.”
+> *"Turning data into decisions, and decisions into measurable impact."*
