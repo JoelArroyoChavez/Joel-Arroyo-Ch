@@ -174,6 +174,7 @@ If you want to collaborate on data science, analytics engineering, or business i
 
 - LinkedIn: <a href="https://www.linkedin.com/in/joel-arroyo-chavez-208303193">joel-arroyo-chavez-208303193</a><br/>
 - Email: <a href="mailto:joel_arroyo_chavez@hotmail.com">joel_arroyo_chavez@hotmail.com</a>
+- Tel: <a href="mailto:joel_arroyo_chavez@hotmail.com">+52 4436851510</a>
 
 ---
 
