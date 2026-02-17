@@ -13,7 +13,7 @@ Repo: Joel-Arroyo-Ch
   <img src="https://img.shields.io/badge/Business%20Impact-00c2ff?style=for-the-badge" alt="Business Impact badge"/>
 </p>
 
-<h1 align="center">📸 Data Science Portfolio · estilo Instagram</h1>
+<h1 align="center">📸 Data Science Portfolio</h1>
 <p align="center">
   Senior Data Scientist · SQL · Python · R · Retail Analytics · Decision Systems
 </p>
