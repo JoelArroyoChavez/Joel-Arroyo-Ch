@@ -41,7 +41,9 @@ Repo: Joel-Arroyo-Ch
 
 ---
 
+<!-- =========================================================
 ## 🌌 Feed principal · Dark Professional
+========================================================= -->
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=900&q=80" alt="Dashboard analytics visual" width="30%" />
@@ -49,7 +51,9 @@ Repo: Joel-Arroyo-Ch
   <img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=900&q=80" alt="Business decision meeting" width="30%" />
 </p>
 
+<!-- =========================================================
 > Uso este espacio con una estética profesional en negros, grises y azules para documentar proyectos, experimentos y aprendizajes aplicados a negocio.
+========================================================= -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Palette-Black%20%7C%20Gray%20%7C%20Blue-0f172a?style=flat-square&labelColor=111827&color=1d4ed8" alt="Dark palette"/>
