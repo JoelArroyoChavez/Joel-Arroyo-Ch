@@ -19,7 +19,7 @@ Repo: Joel-Arroyo-Ch
 </p>
 
 <p align="center">
-  <img src="./assets/profile.jpg" alt="Joel Arroyo - Foto de presentación" width="120" style="border-radius: 12px; border: 2px solid #1d4ed8;"/>
+  <img src="./assets/profile.jpg" alt="Joel Arroyo" width="120" style="border-radius: 12px; border: 2px solid #1d4ed8;"/>
 </p>
 
 <p align="center"><sub>Foto de presentación (tamaño pequeño)</sub></p>
