@@ -53,12 +53,12 @@ Repo: Joel-Arroyo-Ch
 
 <!-- =========================================================
 > Uso este espacio con una estética profesional en negros, grises y azules para documentar proyectos, experimentos y aprendizajes aplicados a negocio.
-========================================================= -->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Palette-Black%20%7C%20Gray%20%7C%20Blue-0f172a?style=flat-square&labelColor=111827&color=1d4ed8" alt="Dark palette"/>
 </p>
-
+========================================================= -->
 ---
 
 ## 👋 Welcome
